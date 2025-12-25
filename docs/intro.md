@@ -2,46 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Agentic AI: A Comprehensive Guide
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the comprehensive guide on Agentic AI systems. This resource covers everything you need to know about building, deploying, and managing AI agents that can act autonomously and make decisions.
 
-## Getting Started
+## What You'll Learn
 
-Get started by **creating a new site**.
+- Fundamentals of agent architectures
+- Building blocks for agentic systems
+- Design patterns and implementation strategies
+- Advanced concepts and applications
+- Evaluation and deployment considerations
+- Ethical implications and future directions
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Structure
 
-### What you'll need
+This guide is organized into several key sections:
 
-- [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+1. **Fundamentals** - Core concepts and theoretical foundations
+2. **Building Blocks** - Essential components and architectures
+3. **Design Patterns** - Proven approaches and methodologies
+4. **Implementation** - Practical guidance and code examples
+5. **Advanced Concepts** - Cutting-edge techniques and research
+6. **Applications** - Real-world use cases and scenarios
+7. **Evaluation** - Measuring and improving agent performance
+8. **Deployment** - Production considerations and best practices
+9. **Ethics** - Responsible AI and safety considerations
+10. **Future** - Emerging trends and research directions
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Each section builds on the previous, taking you from basic concepts to advanced implementations.
