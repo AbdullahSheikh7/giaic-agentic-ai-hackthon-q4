@@ -21,3 +21,7 @@
   align-items: center;
   justify-content: center;
 }
+
+.features {
+  padding: 50px 0;
+}
